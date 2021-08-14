@@ -1,5 +1,8 @@
-# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
-COVID-19 with HTML5, CSS3 and JavaScript
+# COVID-19_TRACKER
+
+# INFO
+
+This is project of creating a simple covid-19 Tracker, Tracks the total number of
 
 
 # Deployed link
