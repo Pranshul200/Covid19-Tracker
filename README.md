@@ -6,9 +6,11 @@ This is project of creating a simple covid-19 Tracker, Tracks the total number o
 
 # DEMO
 
+![Covid-19Tracker](https://user-images.githubusercontent.com/62182820/129441095-49269021-b982-4815-998b-3f62f9e47d4e.PNG)
 
 
 
-# Deployed link
+
+# CHECK APP
 Here is the [deployed link] (https://suspicious-aryabhata-0c8d90.netlify.app)
 
